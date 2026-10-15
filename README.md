@@ -1,46 +1,51 @@
-Hi there! I'm Shakiba 👋
 
-AI Engineer & Researcher | Computer Vision • LLMs • Edge AI
+# Hi there! I'm Shakiba 👋
 
-I'm an AI Engineer and Researcher based in Italy, with a Master's degree in Artificial Intelligence from the University of Bologna.
+### AI Engineer & Researcher | Computer Vision • LLMs • Edge AI
+
+I'm an **AI Engineer and Researcher** based in Italy, with a Master's degree in **Artificial Intelligence from the University of Bologna**.
 
 I specialize in designing, developing, and deploying intelligent systems, bridging the gap between AI research and real-world applications.
 
-My work spans Computer Vision, Deep Learning, Natural Language Processing, Large Language Models, and Edge AI, with hands-on experience in model optimization, inference pipelines, and production-oriented AI development.
+My work spans **Computer Vision, Deep Learning, Natural Language Processing, Large Language Models, and Edge AI**, with hands-on experience in model optimization, inference pipelines, and production-oriented AI development.
 
 I enjoy turning complex research ideas into efficient, reliable, and practical AI solutions.
 
-🔬 Research & Technical Interests
+---
 
-Computer Vision & Edge AI: Human pose estimation, activity recognition, fall detection, object detection, and real-time inference on embedded hardware.
+### 🔬 Research & Technical Interests
 
-Large Language Models & NLP: Prompt engineering, text classification, LLM evaluation, and AI-powered applications.
+- **Computer Vision & Edge AI:** Human pose estimation, activity recognition, fall detection, object detection, and real-time inference on embedded hardware.
+- **Large Language Models & NLP:** Prompt engineering, text classification, LLM evaluation, and AI-powered applications.
+- **Deep Learning:** Transformer architectures, multimodal learning, representation learning, and model optimization.
+- **Time-Series Forecasting:** Financial forecasting, Bitcoin price prediction, and sentiment analysis.
+- **AI Systems & Deployment:** Model integration, inference optimization, AI workflows, and scalable applications.
 
-Deep Learning: Transformer architectures, multimodal learning, representation learning, and model optimization.
+### 🏆 Research Highlights
 
-Time-Series Forecasting: Financial forecasting, Bitcoin price prediction, and sentiment analysis.
+**Best Paper Award — FAIEMA 2026**
 
-AI Systems & Deployment: Model integration, inference optimization, AI workflows, and scalable applications.
-
-🏆 Research Highlights
-
-Best Paper Award — FAIEMA 2026
-
-A Systematic Evaluation of Prompt Design for LLM-Based Sexism Detection
+*A Systematic Evaluation of Prompt Design for LLM-Based Sexism Detection*
 
 Research exploring prompt design strategies and the performance of language models for automated sexism detection.
 
-💻 Technical Skills
+### 💻 Technical Skills
 
-Programming & Development
+**Programming & Development**
 
-AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-Data Science & Research
+**AI & Machine Learning**
 
-Tools & Deployment
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-  
+**Data Science & Research**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+
+**Tools & Deployment**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shakiba-mirbagheri) 
