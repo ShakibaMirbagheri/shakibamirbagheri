@@ -1,18 +1,46 @@
-## 👩‍💻 About Me
+Hi there! I'm Shakiba 👋
 
-**AI Developer & Researcher | Python Enthusiast | Bitcoin Price Prediction (Transformers)**
+AI Engineer & Researcher | Computer Vision • LLMs • Edge AI
 
-AI Researcher with a Master’s in Artificial Intelligence from the University of Bologna. Specialized in developing advanced algorithms for Collaborative Robotics, Transformer-based models, and real-world AI applications. Strong expertise in Natural Language Processing (NLP), Time-Series Forecasting, and Deep Learning. Currently contributing to applied AI research at NESS SRL, focusing on bringing innovative AI solutions from concept to deployment.
+I'm an AI Engineer and Researcher based in Italy, with a Master's degree in Artificial Intelligence from the University of Bologna.
 
-### 🔬 Research Interests
-- Transformer-based models for Time-Series Forecasting (including Bitcoin price prediction)
-- Collaborative Robotics & AI for real-world automation
-- Advanced Deep Learning & NLP applications
+I specialize in designing, developing, and deploying intelligent systems, bridging the gap between AI research and real-world applications.
 
-### 💼 Experience
-- **Current:** AI Researcher at NESS SRL  
-  *Developing and deploying advanced AI solutions for real-world challenges
+My work spans Computer Vision, Deep Learning, Natural Language Processing, Large Language Models, and Edge AI, with hands-on experience in model optimization, inference pipelines, and production-oriented AI development.
 
+I enjoy turning complex research ideas into efficient, reliable, and practical AI solutions.
+
+🔬 Research & Technical Interests
+
+Computer Vision & Edge AI: Human pose estimation, activity recognition, fall detection, object detection, and real-time inference on embedded hardware.
+
+Large Language Models & NLP: Prompt engineering, text classification, LLM evaluation, and AI-powered applications.
+
+Deep Learning: Transformer architectures, multimodal learning, representation learning, and model optimization.
+
+Time-Series Forecasting: Financial forecasting, Bitcoin price prediction, and sentiment analysis.
+
+AI Systems & Deployment: Model integration, inference optimization, AI workflows, and scalable applications.
+
+🏆 Research Highlights
+
+Best Paper Award — FAIEMA 2026
+
+A Systematic Evaluation of Prompt Design for LLM-Based Sexism Detection
+
+Research exploring prompt design strategies and the performance of language models for automated sexism detection.
+
+💻 Technical Skills
+
+Programming & Development
+
+AI & Machine Learning
+
+Data Science & Research
+
+Tools & Deployment
+
+  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shakiba-mirbagheri) 
